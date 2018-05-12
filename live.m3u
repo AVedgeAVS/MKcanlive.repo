@@ -1,29 +1,25 @@
 #EXTM3U
-EXTINF:-1,CA: Sportsnet World HD(1)
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2447.ts
-EXTINF:-1,CA: Sportnet Pacific HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2448.ts
-EXTINF:-1,CA: CHCH
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/7024.ts
-EXTINF:-1,CA: CityTV HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6432.ts
-EXTINF:-1,CA: CTV News HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6437.ts
-EXTINF:-1,CA: Global HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6428.ts
-EXTINF:-1,CA: Velocity HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6450.ts
-EXTINF:-1,CA : sportsnet world hd
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/3058.ts
-EXTINF:-1,CA: Sportsnet West HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2449.ts
-EXTINF:-1,CA : Sportsnet One HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2450.ts
-EXTINF:-1,CA: sportsnet 360 hd(1)
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/3057.ts
-EXTINF:-1,CA: Sportnet Ontario HD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2451.ts
-EXTINF:-1,CA: Fox news
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/3013.ts
-EXTINF:-1,CA: PBS FHD
-http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/8034.ts
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= May.08.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-1)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-2)
+http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
