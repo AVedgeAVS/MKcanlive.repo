@@ -1,55 +1,29 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= May.08.2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-2)
-http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24news (Opt-1)
-http://stream-03.nyc.dailymotion.com/25/dm/3/x29atae/live-3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24news (Opt-2)
-http://stream-04.ix7.dailymotion.com/05/dm/3/x29atae/live-4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="WORLD NEWS",Press TV
-http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="WORLD NEWS",Sky News
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+EXTINF:-1,CA: Sportsnet World HD(1)
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2447.ts
+EXTINF:-1,CA: Sportnet Pacific HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2448.ts
+EXTINF:-1,CA: CHCH
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/7024.ts
+EXTINF:-1,CA: CityTV HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6432.ts
+EXTINF:-1,CA: CTV News HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6437.ts
+EXTINF:-1,CA: Global HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6428.ts
+EXTINF:-1,CA: Velocity HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/6450.ts
+EXTINF:-1,CA : sportsnet world hd
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/3058.ts
+EXTINF:-1,CA: Sportsnet West HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2449.ts
+EXTINF:-1,CA : Sportsnet One HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2450.ts
+EXTINF:-1,CA: sportsnet 360 hd(1)
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/3057.ts
+EXTINF:-1,CA: Sportnet Ontario HD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/2451.ts
+EXTINF:-1,CA: Fox news
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/3013.ts
+EXTINF:-1,CA: PBS FHD
+http://iptvfree1.com:6969/live/live:dzidzai.chidumba/H4QxYU4MQZ/8034.ts
