@@ -1,25 +1,65 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= May.08.2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Opt-2)
-http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,--------MK CAN LIVE--------
+http://dummy.ts
+#EXTINF:-1,SAVOIR
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4613.ts
+#EXTINF:-1,CANAL D
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4614.ts
+#EXTINF:-1,EVASION
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4615.ts
+#EXTINF:-1,RDS
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4617.ts
+#EXTINF:-1,RDS 2
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4618.ts
+#EXTINF:-1,RDS INFO
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4619.ts
+#EXTINF:-1,TVA SPORTS
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4616.ts
+#EXTINF:-1,CANAL VIE
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4620.ts
+#EXTINF:-1,METEO MEDIA
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4622.ts
+#EXTINF:-1,VRAK TV
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4621.ts
+#EXTINF:-1,CBC MONTREAL
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4625.ts
+#EXTINF:-1,CITY TORONTO
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4626.ts
+#EXTINF:-1,CITY VANCOUVER
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4623.ts
+#EXTINF:-1,DISNEY FRENCH
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4624.ts
+#EXTINF:-1,GLOBAL VANCOUVER
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4634.ts
+#EXTINF:-1,SPORTSNET 360
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4633.ts
+#EXTINF:-1,SPORTSNET EAST
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4632.ts
+#EXTINF:-1,SPORTSNET ONE
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4631.ts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4630.ts
+#EXTINF:-1,SPORTSNET WEST
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4629.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4628.ts
+#EXTINF:-1,SUPER ECRAN 1
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4638.ts
+#EXTINF:-1,SUPER ECRAN 2
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4637.ts
+#EXTINF:-1,SUPER ECRAN 3
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4636.ts
+#EXTINF:-1,SUPER ECRAN 4
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4635.ts
+#EXTINF:-1,TELE TOON FRENCH
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4627.ts
+#EXTINF:-1,SERIES +
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4639.ts
+#EXTINF:-1,CASA
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4640.ts
+#EXTINF:-1,NHL # 1
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4643.ts
+#EXTINF:-1,NHL # 2
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4644.ts
+#EXTINF:-1,TN
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4647.ts
