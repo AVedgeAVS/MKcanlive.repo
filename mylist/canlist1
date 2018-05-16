@@ -1,1 +1,65 @@
-sdfasdfs
+#EXTM3U
+#EXTINF:-1,--------MK CAN LIVE--------
+http://dummy.ts
+#EXTINF:-1,SAVOIR
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4613.ts
+#EXTINF:-1,CANAL D
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4614.ts
+#EXTINF:-1,EVASION
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4615.ts
+#EXTINF:-1,RDS
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4617.ts
+#EXTINF:-1,RDS 2
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4618.ts
+#EXTINF:-1,RDS INFO
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4619.ts
+#EXTINF:-1,TVA SPORTS
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4616.ts
+#EXTINF:-1,CANAL VIE
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4620.ts
+#EXTINF:-1,METEO MEDIA
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4622.ts
+#EXTINF:-1,VRAK TV
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4621.ts
+#EXTINF:-1,CBC MONTREAL
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4625.ts
+#EXTINF:-1,CITY TORONTO
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4626.ts
+#EXTINF:-1,CITY VANCOUVER
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4623.ts
+#EXTINF:-1,DISNEY FRENCH
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4624.ts
+#EXTINF:-1,GLOBAL VANCOUVER
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4634.ts
+#EXTINF:-1,SPORTSNET 360
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4633.ts
+#EXTINF:-1,SPORTSNET EAST
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4632.ts
+#EXTINF:-1,SPORTSNET ONE
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4631.ts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4630.ts
+#EXTINF:-1,SPORTSNET WEST
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4629.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4628.ts
+#EXTINF:-1,SUPER ECRAN 1
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4638.ts
+#EXTINF:-1,SUPER ECRAN 2
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4637.ts
+#EXTINF:-1,SUPER ECRAN 3
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4636.ts
+#EXTINF:-1,SUPER ECRAN 4
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4635.ts
+#EXTINF:-1,TELE TOON FRENCH
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4627.ts
+#EXTINF:-1,SERIES +
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4639.ts
+#EXTINF:-1,CASA
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4640.ts
+#EXTINF:-1,NHL # 1
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4643.ts
+#EXTINF:-1,NHL # 2
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4644.ts
+#EXTINF:-1,TN
+http://extremo.dyndns.ws:25461/live/ernesto/12345/4647.ts
