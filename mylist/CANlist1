@@ -1,343 +1,96 @@
 #EXTM3U
-#EXTINF:-1,***CANADA TV***
-http://dummy.ts
-#EXTINF:-1,CA: CHCH
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/7024.ts
-#EXTINF:-1,CA: CityTV HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/6432.ts
-#EXTINF:-1,CA: CTV News HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/6437.ts
-#EXTINF:-1,CA: SPORTSNET 360 HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16157.ts
-#EXTINF:-1,CA: SPORTSNET EAST HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16153.ts
-#EXTINF:-1,CA: SPORTSNET ONE HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16154.ts
-#EXTINF:-1,CA: SPORTSNET ONTARIO HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16152.ts
-#EXTINF:-1,CA: SPORTSNET PACIFIC HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16156.ts
-#EXTINF:-1,CA: SPORTSNET WORLD HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16155.ts
-#EXTINF:-1,CA: CBC ATLANTIC HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16811.ts
-#EXTINF:-1,CA: CBC NEWS HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16805.ts
-#EXTINF:-1,CA: CPAC HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16810.ts
-#EXTINF:-1,CA: CTV ATLANTIC
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16806.ts
-#EXTINF:-1,CA: DISNEY JR HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16809.ts
-#EXTINF:-1,CA: DISNEY XD HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16808.ts
-#EXTINF:-1,CA: DIY NETWORK HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16807.ts
-#EXTINF:-1,CA: E! HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16813.ts
-#EXTINF:-1,CA: HBO 2 HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16814.ts
-#EXTINF:-1,CA: HLN HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16815.ts
-#EXTINF:-1,CA: TVA SPORTS
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18190.ts
-#EXTINF:-1,CA: BBC EARTH HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18194.ts
-#EXTINF:-1,CA: FAMILY TV HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18193.ts
-#EXTINF:-1,CA: FXX HD(1)
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18191.ts
-#EXTINF:-1,CA: GOLF HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18197.ts
-#EXTINF:-1,CA: GUSTO HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18196.ts
-#EXTINF:-1,CA: HBO 1 HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18192.ts
-#EXTINF:-1,CA: HIFI HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/18195.ts
-#EXTINF:-1,CA: PEACH TREE HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16816.ts
-#EXTINF:-1,CA: A&E  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16968.ts
-#EXTINF:-1,CA: AHC local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16967.ts
-#EXTINF:-1,CA: Amc local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16966.ts
-#EXTINF:-1,CA: Animal planet  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16965.ts
-#EXTINF:-1,CA: Bbc Kids  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16964.ts
-#EXTINF:-1,CA: Bravo  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16963.ts
-#EXTINF:-1,CA: Chet Tv  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16962.ts
-#EXTINF:-1,CA: CI  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16961.ts
-#EXTINF:-1,CA: CKWS  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16960.ts
-#EXTINF:-1,CA: Comedy  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16959.ts
-#EXTINF:-1,CA: Comedy Gold  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16958.ts
-#EXTINF:-1,CA: Comedy West  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16957.ts
-#EXTINF:-1,CA: Cottage Tv Life  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16956.ts
-#EXTINF:-1,CA: CTV  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16955.ts
-#EXTINF:-1,CA: Discovery Channel  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16954.ts
-#EXTINF:-1,CA: Discovery Science  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16953.ts
-#EXTINF:-1,CA: Disney  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16952.ts
-#EXTINF:-1,CA: Disney Jnr  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16951.ts
-#EXTINF:-1,CA: Documentary  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16950.ts
-#EXTINF:-1,CA: Family Junior  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16949.ts
-#EXTINF:-1,CA: Family West  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16948.ts
-#EXTINF:-1,CA: Fight network  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16947.ts
-#EXTINF:-1,CA: Food Network local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16946.ts
-#EXTINF:-1,CA: FOX-W  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16945.ts
-#EXTINF:-1,CA: G4  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16944.ts
-#EXTINF:-1,CA: Game Tv  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16943.ts
-#EXTINF:-1,CA: HBO1  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16942.ts
-#EXTINF:-1,CA: Sportsnet World HD(1)
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/2447.ts
-#EXTINF:-1,CA: Sportnet Pacific HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/2448.ts
-#EXTINF:-1,CA: Sportsnet West HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/2449.ts
-#EXTINF:-1,CA: sportsnet 360 hd(1)
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/3057.ts
-#EXTINF:-1,CA: Sportnet Ontario HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/2451.ts
-#EXTINF:-1,CA: Fox news
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/3013.ts
-#EXTINF:-1,CA: TSN HD 1
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/9372.ts
-#EXTINF:-1,CA: TSN HD 2
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/9373.ts
-#EXTINF:-1,CA: TSN HD 3
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/9374.ts
-#EXTINF:-1,CA: TSN HD 4
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/9375.ts
-#EXTINF:-1,CA: TSN HD 5
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/9376.ts
-#EXTINF:-1,CA: HBO2  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16941.ts
-#EXTINF:-1,CA: HGTV  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16940.ts
-#EXTINF:-1,CA: History  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16939.ts
-#EXTINF:-1,CA: HLN local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16938.ts
-#EXTINF:-1,CA: Leafs Tv  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16937.ts
-#EXTINF:-1,CA: OWN local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16936.ts
-#EXTINF:-1,CA: PBS-W  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16935.ts
-#EXTINF:-1,CA: Peach Tree Tv  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16934.ts
-#EXTINF:-1,CA: Showtime East  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16933.ts
-#EXTINF:-1,CA: Slice  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16932.ts
-#EXTINF:-1,CA: Space local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16931.ts
-#EXTINF:-1,CA: Spike local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16930.ts
-#EXTINF:-1,CA: Super Channel Ginx local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16929.ts
-#EXTINF:-1,CA: Super Channel Vault  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16928.ts
-#EXTINF:-1,CA: Super Ecran 1  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16927.ts
-#EXTINF:-1,CA: Super Ecran 2  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16926.ts
-#EXTINF:-1,CA: TCM local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16925.ts
-#EXTINF:-1,CA: The Movie Network 2 East  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16923.ts
-#EXTINF:-1,CA: The Movie Network 2 West  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16922.ts
-#EXTINF:-1,CA: The Movie Network 3 East  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16921.ts
-#EXTINF:-1,CA: The Movie Network 3 West  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16920.ts
-#EXTINF:-1,CA: The Movie Network 4 East  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16919.ts
-#EXTINF:-1,CA: The Movie Network Encore 1 East  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16918.ts
-#EXTINF:-1,CA: The Movie Network Encore 1 West  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16917.ts
-#EXTINF:-1,CA: The Movie Network Encore 2 East  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16916.ts
-#EXTINF:-1,CA: The Movie Network Encore 2 West  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16915.ts
-#EXTINF:-1,CA: TLC  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16914.ts
-#EXTINF:-1,CA: Toon East  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16913.ts
-#EXTINF:-1,CA: Travel and escape  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16912.ts
-#EXTINF:-1,CA: Treehouse Tv  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16911.ts
-#EXTINF:-1,CA: W  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16910.ts
-#EXTINF:-1,CA: World Fishing Network  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16909.ts
-#EXTINF:-1,CA: Wsbk  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16908.ts
-#EXTINF:-1,CA: YES  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16907.ts
-#EXTINF:-1,CA: YTV-E  local
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16906.ts
-#EXTINF:-1,CA: A&E HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17650.ts
-#EXTINF:-1,CA: ABC SPARK
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17702.ts
-#EXTINF:-1,CA: ACTION2 HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17703.ts
-#EXTINF:-1,CA: AMC HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17652.ts
-#EXTINF:-1,CA: BET HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17653.ts
-#EXTINF:-1,CA: BOUNCE HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17654.ts
-#EXTINF:-1,CA: BRAVO HD(1)
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17655.ts
-#EXTINF:-1,CA: CAN TV
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17706.ts
-#EXTINF:-1,CA: CBC HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17656.ts
-#EXTINF:-1,CA: CBS NEWS
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17732.ts
-#EXTINF:-1,CA: CFMT HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17657.ts
-#EXTINF:-1,CA: COMEDY HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17658.ts
-#EXTINF:-1,CA: CP24
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17727.ts
-#EXTINF:-1,CA: CTV HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17659.ts
-#EXTINF:-1,CA: CTV-TWO
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17725.ts
-#EXTINF:-1,CA: CW HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17660.ts
-#EXTINF:-1,CA: DISCOVERY
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17661.ts
-#EXTINF:-1,CA: DYI HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17662.ts
-#EXTINF:-1,CA: E HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17663.ts
-#EXTINF:-1,CA: FOODNET HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17665.ts
-#EXTINF:-1,CA: GLOBAL HD(1)
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17667.ts
-#EXTINF:-1,CA: HBO1
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17668.ts
-#EXTINF:-1,CA: HGTV HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17669.ts
-#EXTINF:-1,CA: HISTORY
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17690.ts
-#EXTINF:-1,CA: ID HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17670.ts
-#EXTINF:-1,CA: LIFE HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17672.ts
-#EXTINF:-1,CA: OMNI HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17673.ts
-#EXTINF:-1,CA: OWN HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17674.ts
-#EXTINF:-1,CA: RDS2 HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17717.ts
-#EXTINF:-1,CA: SLICE HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17675.ts
-#EXTINF:-1,CA: SPACE HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17731.ts
-#EXTINF:-1,CA: SPORTS NET 360
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17685.ts
-#EXTINF:-1,CA: SYFY HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17676.ts
-#EXTINF:-1,CA: TCM HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17677.ts
-#EXTINF:-1,CA: TMN1
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17680.ts
-#EXTINF:-1,CA: TMN2
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17679.ts
-#EXTINF:-1,CA: TMN3
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17688.ts
-#EXTINF:-1,CA: TSN1
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17687.ts
-#EXTINF:-1,CA: TSN3
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17691.ts
-#EXTINF:-1,CA: TSN4 HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17701.ts
-#EXTINF:-1,CA: TVA SPORTS(1)
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17720.ts
-#EXTINF:-1,CA: TVA SPORTS2
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17721.ts
-#EXTINF:-1,CA: TVO HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17682.ts
-#EXTINF:-1,CA: USA HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17728.ts
-#EXTINF:-1,CA: VISION TV
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17730.ts
-#EXTINF:-1,CA: W NETWORK HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17684.ts
-#EXTINF:-1,CA: YES HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17683.ts
-#EXTINF:-1,CA: Global FHD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/8610.ts
-#EXTINF:-1,CA: WWE HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17686.ts
-#EXTINF:-1,CA: MLB 1
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17911.ts
-#EXTINF:-1,CA: MLB 11
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17903.ts
-#EXTINF:-1,CA: MLB 12
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17902.ts
-#EXTINF:-1,CA: MLB 13
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17901.ts
-#EXTINF:-1,CA: MLB 2
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17910.ts
-#EXTINF:-1,CA: MLB 3
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17909.ts
-#EXTINF:-1,CA: MLB 5
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17908.ts
-#EXTINF:-1,CA: MLB 6
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17907.ts
-#EXTINF:-1,CA: MLB 7
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17906.ts
-#EXTINF:-1,CA: MLB 8
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17905.ts
-#EXTINF:-1,CA: MLB 9
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/17904.ts
-#EXTINF:-1,CA: Global HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/6428.ts
-#EXTINF:-1,CA: Velocity HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/6450.ts
-#EXTINF:-1,CA: PBS FHD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/8034.ts
-#EXTINF:-1,CA: RDI HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/8527.ts
-#EXTINF:-1,CA: TVA HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/8528.ts
-#EXTINF:-1,CA: Telemundo
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/8609.ts
-#EXTINF:-1,CA: CP24 HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/16081.ts
+#EXTINF:-1,***Canada TV***
+#EXTINF:-1,CA : Sportnet Pacific HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4020.ts
+#EXTINF:-1,CA : NBA TV_CA
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4284.ts
+#EXTINF:-1,CA: MTV 2 Canada
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4283.ts
+#EXTINF:-1,CA : HBO_CA
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4282.ts
+#EXTINF:-1,CA : HBO 2_CA
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4281.ts
+#EXTINF:-1,CA : ABC HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4285.ts
+#EXTINF:-1,CA :YTV HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4021.ts
+#EXTINF:-1,CA : World Fishing TV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4022.ts
+#EXTINF:-1,CA : w network
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4023.ts
+#EXTINF:-1,CA : tree house
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4025.ts
+#EXTINF:-1,CA : Travel Channel HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4026.ts
+#EXTINF:-1,CA : TMN ACTION TV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4027.ts
+#EXTINF:-1,CA : Teletoon HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4028.ts
 #EXTINF:-1,CA : sportsnet world hd
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/3058.ts
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4030.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4031.ts
 #EXTINF:-1,CA : Sportsnet One HD
-http://premium-iptv.link:6969/live/hinojosa1/hinojosa1/2450.ts
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4032.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4034.ts
+#EXTINF:-1,CA: SportsNet 360
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/8898.ts
+#EXTINF:-1,CA: SportsNet East
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/8897.ts
+#EXTINF:-1,CA : Spike HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4035.ts
+#EXTINF:-1,CA : slice
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4036.ts
+#EXTINF:-1,CA : silver screen classics
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4037.ts
+#EXTINF:-1,CA : RDS2 HD TV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4040.ts
+#EXTINF:-1,CA : Peachtree HDTV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4042.ts
+#EXTINF:-1,CA : own (oprah winfrew network)
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4043.ts
+#EXTINF:-1,CA : omni 2
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4044.ts
+#EXTINF:-1,CA : omni 1
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4045.ts
+#EXTINF:-1,CA : nick
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4047.ts
+#EXTINF:-1,CA: MTV Canada
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4049.ts
+#EXTINF:-1,CA : Movietime TV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4050.ts
+#EXTINF:-1,CA : History_HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4054.ts
+#EXTINF:-1,CA : gsn
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4055.ts
+#EXTINF:-1,CA : Golf Channel TV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4056.ts
+#EXTINF:-1,CA : tG4 HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4057.ts
+#EXTINF:-1,CA : fxx hd
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4059.ts
+#EXTINF:-1,CA : fox news
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4060.ts
+#EXTINF:-1,CA : fox 25 hd
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4061.ts
+#EXTINF:-1,CA : E! HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4063.ts
+#EXTINF:-1,CA : deja view
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4064.ts
+#EXTINF:-1,CA : ctv toronto
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4065.ts
+#EXTINF:-1,CA : country music television
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4067.ts
+#EXTINF:-1,CA : cottage life
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4068.ts
+#EXTINF:-1,CA : Comedy Gold TV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4069.ts
+#EXTINF:-1,CA : City TV Vancouver
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4070.ts
+#EXTINF:-1,CA : CHCH HD
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4071.ts
+#EXTINF:-1,CA : cbc toronto
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4072.ts
+#EXTINF:-1,CA : Bravo HDTV
+http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/4074.ts
