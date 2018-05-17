@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,***Canada TV***
-#EXTINF:=1,Updated-17-May
+#EXTINF:-1,***Canada TV (Updated-17-May)***
 #EXTINF:-1,CKWS CA
 http://thepk.co:2086/live/carole/12345/3272.ts
 #EXTINF:-1,CLASSIC ARTS SHOWCASE USA
