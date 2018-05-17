@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,***UK TV***
-http://dummy.ts
 #EXTINF:-1,Updated-17-May
-http://dummy.ts
 #EXTINF:-1,UK: BBC 1 HD
 http://ksportiptv.com:1557/live/S1niab0xmumz/s!CF1MyFYkzx150/878.ts
 #EXTINF:-1,UK:BBC_one
