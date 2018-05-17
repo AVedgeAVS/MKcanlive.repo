@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,***UK TV***
-#EXTINF:-1,Updated-17-May
+#EXTINF:-1,***UK TV (Updated-17-May)***
 #EXTINF:-1,UK | BBC1
 http://devcon101.com:8080/live/mayis/siyam/1142.ts
 #EXTINF:-1,UK | BBC2
