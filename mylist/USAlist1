@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,***USA TV (Nov-2018)***
+#EXTINF:-1,***USA TV (Jan-2019)***
 http://nowhere.tv
 
 #EXTINF:-1 tvg-id="600" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News
@@ -529,27 +529,3 @@ http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manife
 
 #EXTINF:-1 tvg-id="797" tvg-logo="https://pbs.twimg.com/profile_images/818139653631053825/XL0qCuSm.jpg" group-title="USA",Shop LC
 https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
-
-#EXTINF:-1 tvg-id="798" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-#EXTINF:-1 tvg-id="799" tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA",Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="800" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="CANADA",NTV Newfoundland
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="801" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
- 
-#EXTINF:-1 tvg-id="802" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC Francais
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-
-#EXTINF:-1 tvg-id="803" tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA",Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-
-#EXTINF:-1 tvg-id="804" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
-https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="805" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
