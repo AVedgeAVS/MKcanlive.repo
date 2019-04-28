@@ -1,27 +1,304 @@
 #EXTM3U
-#EXTINF:-1,***Canada TV (Nov-2018)***
+#EXTINF:-1,***Canada TV (MAY-2019)***
 http://nowhere.tv
-
-#EXTINF:-1 tvg-id="798" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-#EXTINF:-1 tvg-id="799" tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA",Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="800" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="CANADA",NTV Newfoundland
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="801" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
- 
-#EXTINF:-1 tvg-id="802" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC Francais
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-
-#EXTINF:-1 tvg-id="803" tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA",Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-
-#EXTINF:-1 tvg-id="804" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
-https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="805" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CANADA",World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTMU
+#EXTINF:-1 tvg-ID="EEntertainment.ca" tvg-name="CA: E HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" group-title="Canada",CA: E HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17663
+#EXTINF:-1 tvg-ID="eentertainment.ca" tvg-name="CA: E! HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" group-title="Canada",CA: E! HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16813
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ENCORE 1 EAST SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ENCORE1EAST.png" group-title="Canada",CA: ENCORE 1 EAST SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26733
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ENCORE 2 EAST SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ENCORE2EASTSD.png" group-title="Canada",CA: ENCORE 2 EAST SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26732
+#EXTINF:-1 tvg-ID="" tvg-name="CA: EVASION SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/EVASIONSD.png" group-title="Canada",CA: EVASION SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26731
+#EXTINF:-1 tvg-ID="Family CHRGD" tvg-name="CA: FAMILY CHRGD SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/familychannel.png" group-title="Canada",CA: FAMILY CHRGD SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26730
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FAMILY EAST HD/SD SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/familychannel.png" group-title="Canada",CA: FAMILY EAST HD/SD SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26729
+#EXTINF:-1 tvg-ID="familyjr.ca" tvg-name="CA: FAMILY JR SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/familyJR.png" group-title="Canada",CA: FAMILY JR SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26728
+#EXTINF:-1 tvg-ID="familyjr.ca" tvg-name="CA: Family Junior  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/FamilyJuniorlocal.png" group-title="Canada",CA: Family Junior  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16949
+#EXTINF:-1 tvg-ID="familychannel.ca" tvg-name="CA: FAMILY TV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/familytv.png" group-title="Canada",CA: FAMILY TV HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/18193
+#EXTINF:-1 tvg-ID="Family Jr." tvg-name="CA: Family West  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/FamilyWest.png" group-title="Canada",CA: Family West  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16948
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FAMILY WEST SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FamilyWest.png" group-title="Canada",CA: FAMILY WEST SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26727
+#EXTINF:-1 tvg-ID="fightnetwork.ca" tvg-name="CA: Fight network  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/fightnetwork.png" group-title="Canada",CA: Fight network  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16947
+#EXTINF:-1 tvg-ID="foodnetwork.ca" tvg-name="CA: Food Network local" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" group-title="Canada",CA: Food Network local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16946
+#EXTINF:-1 tvg-ID="Fox News" tvg-name="CA: Fox news" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxnews.png" group-title="Canada",CA: Fox news
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3013
+#EXTINF:-1 tvg-ID="Fox News" tvg-name="CA: FOX NEWS SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxnews.png" group-title="Canada",CA: FOX NEWS SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26726
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FOX WEST HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXWESTHD.png" group-title="Canada",CA: FOX WEST HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17940
+#EXTINF:-1 tvg-ID="fox.wuhf.v5k0a1.ontvtonight.ca.69048237" tvg-name="CA: FOX-W  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Canada",CA: FOX-W  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16945
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FTV CANADA SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FTVCANADA.png" group-title="Canada",CA: FTV CANADA SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26725
+#EXTINF:-1 tvg-ID="FX Networks Canada HD" tvg-name="CA: FX" tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" group-title="Canada",CA: FX
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26966
+#EXTINF:-1 tvg-ID="fxx.ca" tvg-name="CA: FXX HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fxx.png" group-title="Canada",CA: FXX HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/18191
+#EXTINF:-1 tvg-ID="FYI.ca" tvg-name="CA: FYI SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fyi.png" group-title="Canada",CA: FYI SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26724
+#EXTINF:-1 tvg-ID="g4.ca" tvg-name="CA: G4  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/G4.png" group-title="Canada",CA: G4  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16944
+#EXTINF:-1 tvg-ID="gametv.ca" tvg-name="CA: Game Tv  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/GameTv.png" group-title="Canada",CA: Game Tv  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16943
+#EXTINF:-1 tvg-ID="gametv.ca" tvg-name="CA: Game TV SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GameTV.png" group-title="Canada",CA: Game TV SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26723
+#EXTINF:-1 tvg-ID="global.ca" tvg-name="CA: Global FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/global.png" group-title="Canada",CA: Global FHD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8610
+#EXTINF:-1 tvg-ID="global.ca" tvg-name="CA: Global HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/global.png" group-title="Canada",CA: Global HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/6428
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GLOBAL HD(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/global.png" group-title="Canada",CA: GLOBAL HD(1)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17667
+#EXTINF:-1 tvg-ID="Golf Channel Canada" tvg-name="CA: GOLF HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/golfchannel.png" group-title="Canada",CA: GOLF HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/18197
+#EXTINF:-1 tvg-ID="hbo.ca" tvg-name="CA: HBO 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Canada",CA: HBO 1 HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/18192
+#EXTINF:-1 tvg-ID="hbo2.ca" tvg-name="CA: HBO 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" group-title="Canada",CA: HBO 2 HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16814
+#EXTINF:-1 tvg-ID="hbo.ca" tvg-name="CA: HBO1" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Canada",CA: HBO1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17668
+#EXTINF:-1 tvg-ID="hbo.ca" tvg-name="CA: HBO1  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Canada",CA: HBO1  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16942
+#EXTINF:-1 tvg-ID="hbo2.ca" tvg-name="CA: HBO2  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" group-title="Canada",CA: HBO2  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16941
+#EXTINF:-1 tvg-ID="hgtv.ca" tvg-name="CA: HGTV  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" group-title="Canada",CA: HGTV  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16940
+#EXTINF:-1 tvg-ID="hgtv.ca" tvg-name="CA: HGTV FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" group-title="Canada",CA: HGTV FHD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17669
+#EXTINF:-1 tvg-ID="hifi.ca" tvg-name="CA: HIFI HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hifi.png" group-title="Canada",CA: HIFI HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/18195
+#EXTINF:-1 tvg-ID="historia.ca" tvg-name="CA: History  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" group-title="Canada",CA: History  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16939
+#EXTINF:-1 tvg-ID="historia.ca" tvg-name="CA: HISTORY HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/historyhd.png" group-title="Canada",CA: HISTORY HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17690
+#EXTINF:-1 tvg-ID="hln.ca" tvg-name="CA: HLN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hln.png" group-title="Canada",CA: HLN HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16815
+#EXTINF:-1 tvg-ID="hln.ca" tvg-name="CA: HLN local" tvg-logo="http://iptvreseller.xyz:1234/Anh/hln.png" group-title="Canada",CA: HLN local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16938
+#EXTINF:-1 tvg-ID="hpitv.ca" tvg-name="CA: HPI TV (HORSE RACING) SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/HPITV.png" group-title="Canada",CA: HPI TV (HORSE RACING) SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26722
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ICI MONTREAL SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ICIMONTREAL.png" group-title="Canada",CA: ICI MONTREAL SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26721
+#EXTINF:-1 tvg-ID="iciradiocanada.ca" tvg-name="CA: ICI RDI" tvg-logo="" group-title="Canada",CA: ICI RDI
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/31019
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ICI VANCOUVER SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ICIVANCOUVER.png" group-title="Canada",CA: ICI VANCOUVER SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26720
+#EXTINF:-1 tvg-ID="investigationdiscovery.ca" tvg-name="CA: ID CANADA SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/IDCANADA.png" group-title="Canada",CA: ID CANADA SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26719
+#EXTINF:-1 tvg-ID="indfilmchannel.ca" tvg-name="CA: IFC SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ifc.png" group-title="Canada",CA: IFC SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26718
+#EXTINF:-1 tvg-ID="" tvg-name="CA: KNOWLEDGE KIDS SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/KNOWLEDGEKIDS.png" group-title="Canada",CA: KNOWLEDGE KIDS SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26717
+#EXTINF:-1 tvg-ID="KTLA Los Angeles, CA" tvg-name="CA: KTLA SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/KTLASD.png" group-title="Canada",CA: KTLA SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26716
+#EXTINF:-1 tvg-ID="LeCanalNouvelles.ca" tvg-name="CA: LCN SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/LCNSD.png" group-title="Canada",CA: LCN SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26715
+#EXTINF:-1 tvg-ID="leafstv.ca" tvg-name="CA: Leafs Tv  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/leafstv.png" group-title="Canada",CA: Leafs Tv  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16937
+#EXTINF:-1 tvg-ID="leafstv.ca" tvg-name="CA: LEAFS TV SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/leafstv.png" group-title="Canada",CA: LEAFS TV SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26714
+#EXTINF:-1 tvg-ID="lifetimetv.ca" tvg-name="CA: LIFE TIME" tvg-logo="http://iptvreseller.xyz:1234/Anh/lifetime.png" group-title="Canada",CA: LIFE TIME
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17672
+#EXTINF:-1 tvg-ID="lovenature.ca" tvg-name="CA: LOVE NATURE  HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/lovenature.png" group-title="Canada",CA: LOVE NATURE  HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26993
+#EXTINF:-1 tvg-ID="mmax.ca" tvg-name="CA: MAX SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxtv.png" group-title="Canada",CA: MAX SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26713
+#EXTINF:-1 tvg-ID="movietime.ca" tvg-name="CA: MovieTime" tvg-logo="http://iptvreseller.xyz:1234/Anh/movietime.png" group-title="Canada",CA: MovieTime
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26606
+#EXTINF:-1 tvg-ID="movietime.ca" tvg-name="CA: MOVIETIME HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/movietime.png" group-title="Canada",CA: MOVIETIME HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26967
+#EXTINF:-1 tvg-ID="mtv2.ca" tvg-name="CA: MTV 2 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv2.png" group-title="Canada",CA: MTV 2 SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26705
+#EXTINF:-1 tvg-ID="mtv.ca" tvg-name="CA: MTV SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" group-title="Canada",CA: MTV SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26706
+#EXTINF:-1 tvg-ID="muchmusic.ca" tvg-name="CA: MUCH MUSIC SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MUCHMUSIC.png" group-title="Canada",CA: MUCH MUSIC SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26704
+#EXTINF:-1 tvg-ID="natgeowild.ca" tvg-name="CA: NAT GEO WILD  HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Canada",CA: NAT GEO WILD  HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26992
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NTV SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ntv.png" group-title="Canada",CA: NTV SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26712
+#EXTINF:-1 tvg-ID="OutdoorLifeNetwork.ca" tvg-name="CA: OLN SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/oln.png" group-title="Canada",CA: OLN SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26711
+#EXTINF:-1 tvg-ID="omni1.ca" tvg-name="CA: OMNI 1 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/OMNI.png" group-title="Canada",CA: OMNI 1 SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26710
+#EXTINF:-1 tvg-ID="omni2.ca" tvg-name="CA: OMNI 2 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/OMNI.png" group-title="Canada",CA: OMNI 2 SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26709
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OMNI BC SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/OMNI.png" group-title="Canada",CA: OMNI BC SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26708
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OMNI EAST SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/OMNIEAST.png" group-title="Canada",CA: OMNI EAST SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26707
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OOUTDOOR LIFE NETWORK  HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/OOUTDOORLIFENETWORK.png" group-title="Canada",CA: OOUTDOOR LIFE NETWORK  HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26979
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OWN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/own.png" group-title="Canada",CA: OWN HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17674
+#EXTINF:-1 tvg-ID="gameshownetwork.ca" tvg-name="CA: OWN local" tvg-logo="http://iptvreseller.xyz:1234/Anh/own.png" group-title="Canada",CA: OWN local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16936
+#EXTINF:-1 tvg-ID="PBS (WMAE) Booneville, MS" tvg-name="CA: PBS FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/pbs.png" group-title="Canada",CA: PBS FHD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8034
+#EXTINF:-1 tvg-ID="pbs.wned.m3c0c1.ontvtonight.ca.69023453" tvg-name="CA: PBS-W  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/pbs.png" group-title="Canada",CA: PBS-W  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16935
+#EXTINF:-1 tvg-ID="peachtree.ca" tvg-name="CA: PEACH TREE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/peachtreetv.png" group-title="Canada",CA: PEACH TREE HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16816
+#EXTINF:-1 tvg-ID="peachtree.ca" tvg-name="CA: Peach Tree Tv  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/peachtreetv.png" group-title="Canada",CA: Peach Tree Tv  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16934
+#EXTINF:-1 tvg-ID="rdinews.ca" tvg-name="CA: RDI SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/RDISD.png" group-title="Canada",CA: RDI SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8527
+#EXTINF:-1 tvg-ID="rds.ca" tvg-name="CA: RDS 2 SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/RDS2SD.png" group-title="Canada",CA: RDS 2 SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17717
+#EXTINF:-1 tvg-ID="rdsinfo.ca" tvg-name="CA: RDS INFO (French)" tvg-logo="http://iptvreseller.xyz:1234/Anh/RDSINFO.png" group-title="Canada",CA: RDS INFO (French)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26988
+#EXTINF:-1 tvg-ID="SHOWTIME" tvg-name="CA: Showtime East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/ShowtimeEast.png" group-title="Canada",CA: Showtime East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16933
+#EXTINF:-1 tvg-ID="slice.ca" tvg-name="CA: Slice  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/slicetv.png" group-title="Canada",CA: Slice  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16932
+#EXTINF:-1 tvg-ID="slice.ca" tvg-name="CA: SLICE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/slicetv.png" group-title="Canada",CA: SLICE HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17675
+#EXTINF:-1 tvg-ID="space.ca" tvg-name="CA: SPACE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" group-title="Canada",CA: SPACE HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17731
+#EXTINF:-1 tvg-ID="space.ca" tvg-name="CA: Space local" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" group-title="Canada",CA: Space local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16931
+#EXTINF:-1 tvg-ID="spike.ca" tvg-name="CA: Spike local" tvg-logo="http://iptvreseller.xyz:1234/Anh/spike.png" group-title="Canada",CA: Spike local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16930
+#EXTINF:-1 tvg-ID="sportsnetontario.ca" tvg-name="CA: Sportnet Ontario HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetontario.png" group-title="Canada",CA: Sportnet Ontario HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/2451
+#EXTINF:-1 tvg-ID="sportsnetpacific.ca" tvg-name="CA: Sportnet Pacific HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetpacific.png" group-title="Canada",CA: Sportnet Pacific HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/2448
+#EXTINF:-1 tvg-ID="sportsnet360.ca" tvg-name="CA: SPORTSNET 360 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnet360.png" group-title="Canada",CA: SPORTSNET 360 HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16157
+#EXTINF:-1 tvg-ID="sportsnet360.ca" tvg-name="CA: sportsnet 360 hd(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnet360.png" group-title="Canada",CA: sportsnet 360 hd(1)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3057
+#EXTINF:-1 tvg-ID="sportsneteast.ca" tvg-name="CA: SPORTSNET EAST HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsneteast.png" group-title="Canada",CA: SPORTSNET EAST HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16153
+#EXTINF:-1 tvg-ID="sportsnetone.ca" tvg-name="CA: SPORTSNET ONE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetone.png" group-title="Canada",CA: SPORTSNET ONE HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16154
+#EXTINF:-1 tvg-ID="sportsnetontario.ca" tvg-name="CA: SPORTSNET ONTARIO HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetontario.png" group-title="Canada",CA: SPORTSNET ONTARIO HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16152
+#EXTINF:-1 tvg-ID="sportsnetpacific.ca" tvg-name="CA: SPORTSNET PACIFIC HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetpacific.png" group-title="Canada",CA: SPORTSNET PACIFIC HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16156
+#EXTINF:-1 tvg-ID="sportsnetwest.ca" tvg-name="CA: Sportsnet West HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetwest.png" group-title="Canada",CA: Sportsnet West HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/2449
+#EXTINF:-1 tvg-ID="sportsnetworld.ca" tvg-name="CA: SPORTSNET WORLD HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetworld.png" group-title="Canada",CA: SPORTSNET WORLD HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16155
+#EXTINF:-1 tvg-ID="sportsnetworld.ca" tvg-name="CA: Sportsnet World HD(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportsnetworld.png" group-title="Canada",CA: Sportsnet World HD(1)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/2447
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Super Channel Ginx local" tvg-logo="http://iptvreseller.xyz:1234/Anh/superchannelGinx.png" group-title="Canada",CA: Super Channel Ginx local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16929
+#EXTINF:-1 tvg-ID="SuperChannelVAULT.ca" tvg-name="CA: Super Channel Vault  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperChannelVault.png" group-title="Canada",CA: Super Channel Vault  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16928
+#EXTINF:-1 tvg-ID="superecran.ca" tvg-name="CA: Super Ecran 1  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperEcran.png" group-title="Canada",CA: Super Ecran 1  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16927
+#EXTINF:-1 tvg-ID="superecran2.ca" tvg-name="CA: Super Ecran 2  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/SuperEcran.png" group-title="Canada",CA: Super Ecran 2  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16926
+#EXTINF:-1 tvg-ID="superecran3.ca" tvg-name="CA: SUPER ECRAN 3  (French)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SUPERECRAN.png" group-title="Canada",CA: SUPER ECRAN 3  (French)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26989
+#EXTINF:-1 tvg-ID="superecran4.ca" tvg-name="CA: SUPER ECRAN 4  (French)" tvg-logo="http://iptvreseller.xyz:1234/Anh/SUPERECRAN.png" group-title="Canada",CA: SUPER ECRAN 4  (French)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26990
+#EXTINF:-1 tvg-ID="superchannel1.ca" tvg-name="CA: SUPER ECRAN 1" tvg-logo="" group-title="Canada",CA: SUPER ECRAN 1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/31246
+#EXTINF:-1 tvg-ID="superchannel2.ca" tvg-name="CA: SUPER ECRAN 2" tvg-logo="" group-title="Canada",CA: SUPER ECRAN 2
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/31245
+#EXTINF:-1 tvg-ID="superchannel3.ca" tvg-name="CA: SUPER ECRAN 3" tvg-logo="" group-title="Canada",CA: SUPER ECRAN 3
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/31244
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TCM local" tvg-logo="http://iptvreseller.xyz:1234/Anh/tcm.png" group-title="Canada",CA: TCM local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16925
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TCM SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tcm.png" group-title="Canada",CA: TCM SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17677
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Telemundo" tvg-logo="http://iptvreseller.xyz:1234/Anh/Telemundo.png" group-title="Canada",CA: Telemundo
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8609
+#EXTINF:-1 tvg-ID="teletoon.ca" tvg-name="CA: Teletoon  SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/teletoon.png" group-title="Canada",CA: Teletoon  SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26968
+#EXTINF:-1 tvg-ID="TMN2.ca" tvg-name="CA: The Movie Network 2 East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network 2 East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16923
+#EXTINF:-1 tvg-ID="The Movie Network 2" tvg-name="CA: The Movie Network 2 West  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network 2 West  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16922
+#EXTINF:-1 tvg-ID="TMN3.ca" tvg-name="CA: The Movie Network 3 East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network 3 East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16921
+#EXTINF:-1 tvg-ID="TMN3.ca" tvg-name="CA: The Movie Network 3 West  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network 3 West  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16920
+#EXTINF:-1 tvg-ID="TMN4.ca" tvg-name="CA: The Movie Network 4 East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network 4 East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16919
+#EXTINF:-1 tvg-ID="TMNEncore1.ca" tvg-name="CA: The Movie Network Encore 1 East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network Encore 1 East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16918
+#EXTINF:-1 tvg-ID="TMNEncore1.ca" tvg-name="CA: The Movie Network Encore 1 West  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network Encore 1 West  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16917
+#EXTINF:-1 tvg-ID="TMNEncore2.ca" tvg-name="CA: The Movie Network Encore 2 East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network Encore 2 East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16916
+#EXTINF:-1 tvg-ID="TMNEncore2.ca" tvg-name="CA: The Movie Network Encore 2 West  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CA: The Movie Network Encore 2 West  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16915
+#EXTINF:-1 tvg-ID="tlc.ca" tvg-name="CA: TLC  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" group-title="Canada",CA: TLC  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16914
+#EXTINF:-1 tvg-ID="tmn2.ca" tvg-name="CA: TMN 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/tmn2.png" group-title="Canada",CA: TMN 2
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17679
+#EXTINF:-1 tvg-ID="tmn3.ca" tvg-name="CA: TMN3" tvg-logo="http://iptvreseller.xyz:1234/Anh/tmn3.png" group-title="Canada",CA: TMN3
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17688
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Toon East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/ToonEast.png" group-title="Canada",CA: Toon East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16913
+#EXTINF:-1 tvg-ID="travelescape.ca" tvg-name="CA: Travel and escape  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/travel.png" group-title="Canada",CA: Travel and escape  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16912
+#EXTINF:-1 tvg-ID="treehouse.ca" tvg-name="CA: Treehouse Tv  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/treehousetv.png" group-title="Canada",CA: Treehouse Tv  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16911
+#EXTINF:-1 tvg-ID="tsn1.ca" tvg-name="CA: TSN HD 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/tsn.png" group-title="Canada",CA: TSN HD 1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/9372
+#EXTINF:-1 tvg-ID="tsn2.ca" tvg-name="CA: TSN HD 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/tsn2.png" group-title="Canada",CA: TSN HD 2
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/9373
+#EXTINF:-1 tvg-ID="tsn3.ca" tvg-name="CA: TSN HD 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/tsn3.png" group-title="Canada",CA: TSN HD 3
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/9374
+#EXTINF:-1 tvg-ID="tsn4.ca" tvg-name="CA: TSN HD 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/tsn4.png" group-title="Canada",CA: TSN HD 4
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/9375
+#EXTINF:-1 tvg-ID="tsn5.ca" tvg-name="CA: TSN HD 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/tsn5.png" group-title="Canada",CA: TSN HD 5
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/9376
+#EXTINF:-1 tvg-ID="tva.ca" tvg-name="CA: TVA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tva.png" group-title="Canada",CA: TVA HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8528
+#EXTINF:-1 tvg-ID="tvasports.ca" tvg-name="CA: TVA SPORTS" tvg-logo="http://iptvreseller.xyz:1234/Anh/tva.png" group-title="Canada",CA: TVA SPORTS
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/18190
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVA SPORTS HD" tvg-logo="" group-title="Canada",CA: TVA SPORTS HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/18189
+#EXTINF:-1 tvg-ID="tvasports.ca" tvg-name="CA: TVA SPORTS(1)" tvg-logo="http://iptvreseller.xyz:1234/Anh/tva.png" group-title="Canada",CA: TVA SPORTS(1)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17720
+#EXTINF:-1 tvg-ID="tvo.ca" tvg-name="CA: TVO HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVOHD.png" group-title="Canada",CA: TVO HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17682
+#EXTINF:-1 tvg-ID="discoveryvelocity.ca" tvg-name="CA: Velocity HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/velocity.png" group-title="Canada",CA: Velocity HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/6450
+#EXTINF:-1 tvg-ID="vision.ca" tvg-name="CA: VISION TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/VISIONTV.png" group-title="Canada",CA: VISION TV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17730
+#EXTINF:-1 tvg-ID="wnetwork.ca" tvg-name="CA: W  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/w.png" group-title="Canada",CA: W  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16910
+#EXTINF:-1 tvg-ID="WeatherNetwork.ca" tvg-name="CA: WEATHER NETWORK (Toronto)  HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WEATHERNETWORK.png" group-title="Canada",CA: WEATHER NETWORK (Toronto)  HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26971
+#EXTINF:-1 tvg-ID="" tvg-name="CA: WOMENS NETWORK  SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WOMENSNETWORK.png" group-title="Canada",CA: WOMENS NETWORK  SD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26972
+#EXTINF:-1 tvg-ID="worldfishingnetwork.ca" tvg-name="CA: World Fishing Network  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/worldfishingnetwork.png" group-title="Canada",CA: World Fishing Network  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16909
+#EXTINF:-1 tvg-ID="WSBK (TV-38) Boston HD" tvg-name="CA: WSBK" tvg-logo="http://iptvreseller.xyz:1234/Anh/WSBK.png" group-title="Canada",CA: WSBK
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26974
+#EXTINF:-1 tvg-ID="WSBK (TV-38) Boston" tvg-name="CA: Wsbk  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/Wsbk.png" group-title="Canada",CA: Wsbk  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16908
+#EXTINF:-1 tvg-ID="" tvg-name="CA: WWE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/wwe.png" group-title="Canada",CA: WWE HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17686
+#EXTINF:-1 tvg-ID="yestv.ca" tvg-name="CA: YES  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/yestv.png" group-title="Canada",CA: YES  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16907
+#EXTINF:-1 tvg-ID="yestv.ca" tvg-name="CA: YES TV (Alberta)" tvg-logo="http://iptvreseller.xyz:1234/Anh/yestv.png" group-title="Canada",CA: YES TV (Alberta)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26975
+#EXTINF:-1 tvg-ID="yestv.ca" tvg-name="CA: YES TV (Ontario)" tvg-logo="http://iptvreseller.xyz:1234/Anh/yestv.png" group-title="Canada",CA: YES TV (Ontario)
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26976
+#EXTINF:-1 tvg-ID="ytv.ca" tvg-name="CA: YTV" tvg-logo="http://iptvreseller.xyz:1234/Anh/ytv.png" group-title="Canada",CA: YTV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26977
+#EXTINF:-1 tvg-ID="ytv.ca" tvg-name="CA: YTV (East)  HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ytv.png" group-title="Canada",CA: YTV (East)  HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26978
+#EXTINF:-1 tvg-ID="ytv.ca" tvg-name="CA: YTV-E  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/ytv.png" group-title="Canada",CA: YTV-E  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16906
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CBS WEST HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/CBSWESTHD.png" group-title="Canada",CAN: CBS WEST HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17958
+#EXTINF:-1 tvg-ID="ctvnews.ca" tvg-name="CAN: CTV NEWS HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ctvnews.png" group-title="Canada",CAN: CTV NEWS HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16812
+#EXTINF:-1 tvg-ID="tmn.ca" tvg-name="CAN: The Movie Network 1 East  local" tvg-logo="http://iptvreseller.xyz:1234/Anh/TheMovieNetwork.png" group-title="Canada",CAN: The Movie Network 1 East  local
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16924
