@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1,***Canada TV (MAY-2019)***
 http://nowhere.tv
-#EXTMU
 #EXTINF:-1 tvg-ID="EEntertainment.ca" tvg-name="CA: E HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" group-title="Canada",CA: E HD
 http://iptv-line.com:6969/taodo/OHjLoHxtzO/17663
 #EXTINF:-1 tvg-ID="eentertainment.ca" tvg-name="CA: E! HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" group-title="Canada",CA: E! HD
